@@ -44,9 +44,857 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u5F90\u884C"
+      - 
+      - A1.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - A2.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - 
+      - 
+      - A3.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A3.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - 
+      - 
+      - A4.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A4.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - A5.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A5.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - 
+      - 
+      - A6.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A6.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - 
+      - 
+      - A7.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A7.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - 
+      - 
+      - A8.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A8.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - 
+      - 
+      - A9.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A9.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - 
+      - 
+      - A10.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A10.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - 
+      - 
+      - A11.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A11.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - 
+      - 
+      - A12.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A12.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - 
+      - 
+      - A13.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A13.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - 
+      - 
+      - A14.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A14.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - 
+      - 
+      - A15.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A15.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - 
+      - 
+      - A16.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A16.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings:
+      - 
+      - 
+      - A17.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A17.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings:
+      - 
+      - 
+      - A18.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A18.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings:
+      - 
+      - 
+      - A19.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A19.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings:
+      - 
+      - 
+      - A20.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A20.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings:
+      - 
+      - 
+      - A21.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A21.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings:
+      - 
+      - 
+      - A22.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A22.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - 
+      - 
+      - A23.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A23.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - 
+      - 
+      - A24.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A24.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - 
+      - 
+      - A25.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A25.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings:
+      - "\u6BCD\u89AA"
+      - 
+      - B1.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 27
+      strings:
+      - 
+      - 
+      - B2.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - 
+      - 
+      - B3.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B3.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
+      - 
+      - 
+      - B4.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B4.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 30
+      strings:
+      - 
+      - 
+      - B5.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B5.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 31
+      strings:
+      - 
+      - 
+      - B6.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B6.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 32
+      strings:
+      - 
+      - 
+      - B7.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B7.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 33
+      debugIndex: 33
+      strings:
+      - 
+      - 
+      - B8.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B8.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 34
+      strings:
+      - 
+      - 
+      - B9.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B9.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 35
+      debugIndex: 35
+      strings:
+      - 
+      - 
+      - B10.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B10.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 36
+      debugIndex: 36
+      strings:
+      - 
+      - 
+      - B11.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B11.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 37
+      debugIndex: 37
+      strings:
+      - 
+      - 
+      - B12.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B12.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 38
+      debugIndex: 38
+      strings:
+      - 
+      - 
+      - B13.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B13.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 39
+      debugIndex: 39
+      strings:
+      - 
+      - 
+      - B14.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B14.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 40
+      debugIndex: 40
+      strings:
+      - 
+      - 
+      - B15.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B15.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 41
+      debugIndex: 41
+      strings:
+      - 
+      - 
+      - B16.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B16.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 42
+      debugIndex: 42
+      strings:
+      - 
+      - 
+      - B17.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B17.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 43
+      debugIndex: 43
+      strings:
+      - 
+      - 
+      - B18.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B18.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 44
+      debugIndex: 44
+      strings:
+      - 
+      - 
+      - B19.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B19.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 45
+      debugIndex: 45
+      strings:
+      - 
+      - 
+      - B20.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B20.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 46
+      debugIndex: 46
+      strings:
+      - 
+      - 
+      - B21.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B21.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 47
+      debugIndex: 47
+      strings:
+      - 
+      - 
+      - B22.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B22.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 48
+      debugIndex: 48
+      strings:
+      - 
+      - 
+      - B23.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B23.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 49
+      debugIndex: 49
+      strings:
+      - 
+      - 
+      - B24.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B24.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 50
+      debugIndex: 50
+      strings:
+      - 
+      - 
+      - B25.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B25.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 51
+      debugIndex: 51
+      strings:
+      - 
+      - 
+      - B26.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B26.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 52
+      debugIndex: 52
+      strings:
+      - 
+      - 
+      - B27.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B27.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 53
+      debugIndex: 53
+      strings:
+      - 
+      - 
+      - B28.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B28.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232131/Scenarios/61232131.xls:Character
     type: 1
-    textLength: 166
+    textLength: 982
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: c52326bd05cffff43bf8e7f35397bdc3, type: 3}
   - rows:
