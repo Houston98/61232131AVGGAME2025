@@ -34,7 +34,7 @@ MonoBehaviour:
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 1
-      debugIndex: 1
+      debugIndex: 2
       strings:
       - 
       - 
@@ -49,7 +49,7 @@ MonoBehaviour:
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 2
-      debugIndex: 2
+      debugIndex: 3
       strings:
       - 
       - 
@@ -64,7 +64,7 @@ MonoBehaviour:
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 3
-      debugIndex: 3
+      debugIndex: 4
       strings:
       - 
       - 
@@ -79,7 +79,7 @@ MonoBehaviour:
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 4
-      debugIndex: 4
+      debugIndex: 5
       strings:
       - 
       - 
@@ -94,7 +94,7 @@ MonoBehaviour:
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 5
-      debugIndex: 5
+      debugIndex: 6
       strings:
       - 
       - 
@@ -109,7 +109,7 @@ MonoBehaviour:
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 6
-      debugIndex: 7
+      debugIndex: 8
       strings:
       - 
       - 
@@ -124,12 +124,42 @@ MonoBehaviour:
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 7
-      debugIndex: 8
+      debugIndex: 9
+      strings:
+      - Bgm
+      - "\u80CC1"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 10
+      strings:
+      - Bg
+      - "\u623F1"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 11
       strings:
       - 
       - "\u5F90\u884C"
       - A9.png
-      - 
+      - "\u4E2D"
       - 
       - 
       - 
@@ -138,13 +168,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 8
-      debugIndex: 9
+    - rowIndex: 10
+      debugIndex: 12
       strings:
       - 
       - "\u5F90\u884C"
       - A9.png
-      - 
+      - "\u4E2D"
       - 
       - 
       - 
@@ -153,8 +183,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 9
-      debugIndex: 10
+    - rowIndex: 11
+      debugIndex: 13
       strings:
       - 
       - 
@@ -168,13 +198,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 10
-      debugIndex: 11
+    - rowIndex: 12
+      debugIndex: 14
       strings:
       - 
       - "\u5F90\u884C"
       - A16.png
-      - 
+      - "\u4E2D"
       - 
       - 
       - 
@@ -183,13 +213,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 11
-      debugIndex: 12
+    - rowIndex: 13
+      debugIndex: 15
       strings:
       - 
       - "\u5F90\u884C"
       - A16.png
-      - 
+      - "\u4E2D"
       - 
       - 
       - 
@@ -207,13 +237,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 12
-      debugIndex: 13
+    - rowIndex: 14
+      debugIndex: 16
       strings:
       - 
       - "\u5F90\u884C"
       - A16.png
-      - 
+      - "\u4E2D"
       - 
       - 
       - 
@@ -222,8 +252,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 13
-      debugIndex: 14
+    - rowIndex: 15
+      debugIndex: 17
       strings:
       - 
       - 
@@ -237,13 +267,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 14
-      debugIndex: 15
+    - rowIndex: 16
+      debugIndex: 18
       strings:
       - 
       - "\u5F90\u884C"
       - A20.png
-      - 
+      - "\u4E2D"
       - 
       - 
       - 
@@ -252,10 +282,10 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 15
-      debugIndex: 16
+    - rowIndex: 17
+      debugIndex: 19
       strings:
-      - 
+      - CharacterOff
       - 
       - 
       - 
@@ -267,13 +297,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 16
-      debugIndex: 17
+    - rowIndex: 18
+      debugIndex: 20
       strings:
       - 
       - "\u6BCD\u89AA"
       - B9.png
-      - 
+      - "\u53F3"
       - 
       - 
       - 
@@ -282,13 +312,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 17
-      debugIndex: 18
+    - rowIndex: 19
+      debugIndex: 21
       strings:
       - 
       - "\u6BCD\u89AA"
       - B9.png
-      - 
+      - "\u53F3"
       - 
       - 
       - 
@@ -297,13 +327,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 18
-      debugIndex: 19
+    - rowIndex: 20
+      debugIndex: 22
       strings:
       - 
       - "\u6BCD\u89AA"
       - B9.png
-      - 
+      - "\u53F3"
       - 
       - 
       - 
@@ -312,58 +342,64 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 19
-      debugIndex: 20
+    - rowIndex: 21
+      debugIndex: 23
       strings:
       - 
       - "\u5F90\u884C"
       - A5.png
-      - 
+      - "\u5DE6"
       - 
       - 
       - 
       - 
       - "\u300C\u6211\u600E\u9EBC\u5728\u9019\u88E1\uFF1F\u300D"
+      - 
+      - A01
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 20
-      debugIndex: 21
+    - rowIndex: 22
+      debugIndex: 24
       strings:
       - 
       - "\u5F90\u884C"
       - A5.png
-      - 
+      - "\u5DE6"
       - 
       - 
       - 
       - 
       - "\u300C\u6211\u4E0D\u662F\u5728\u8D8A\u5357\u55CE\uFF1F\u300D"
+      - 
+      - A02
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 21
-      debugIndex: 22
+    - rowIndex: 23
+      debugIndex: 25
       strings:
       - 
       - "\u5F90\u884C"
       - A5.png
-      - 
+      - "\u5DE6"
       - 
       - 
       - 
       - 
       - "\u300C\u6211\u7684\u884C\u674E\u5462\uFF1F\u600E\u9EBC\u4E0D\u898B\u4E86\uFF01\u300D"
+      - 
+      - A03
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 22
-      debugIndex: 23
+    - rowIndex: 24
+      debugIndex: 26
       strings:
       - 
       - "\u6BCD\u89AA"
       - B3.png
-      - 
+      - "\u53F3"
       - 
       - 
       - 
@@ -372,11 +408,11 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 23
-      debugIndex: 24
+    - rowIndex: 25
+      debugIndex: 27
       strings:
-      - 
-      - 
+      - CharacterOff
+      - "\u5F90\u884C"
       - 
       - 
       - 
@@ -387,13 +423,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 24
-      debugIndex: 25
+    - rowIndex: 26
+      debugIndex: 28
       strings:
       - 
       - "\u5F90\u884C"
       - A17.png
-      - 
+      - "\u5DE6"
       - 
       - 
       - 
@@ -402,13 +438,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 25
-      debugIndex: 26
+    - rowIndex: 27
+      debugIndex: 29
       strings:
       - 
       - "\u5F90\u884C"
       - A17.png
-      - 
+      - "\u5DE6"
       - 
       - 
       - 
@@ -417,11 +453,11 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 26
-      debugIndex: 27
+    - rowIndex: 28
+      debugIndex: 30
       strings:
-      - 
-      - 
+      - CharacterOff
+      - "\u6BCD\u89AA"
       - 
       - 
       - 
@@ -432,13 +468,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 27
-      debugIndex: 28
+    - rowIndex: 29
+      debugIndex: 31
       strings:
       - 
       - "\u5F90\u884C"
       - A18.png
-      - 
+      - "\u5DE6"
       - 
       - 
       - 
@@ -447,13 +483,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 28
-      debugIndex: 29
+    - rowIndex: 30
+      debugIndex: 32
       strings:
       - 
       - "\u5F90\u884C"
       - A18.png
-      - 
+      - "\u5DE6"
       - 
       - 
       - 
@@ -462,8 +498,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 29
-      debugIndex: 30
+    - rowIndex: 31
+      debugIndex: 33
       strings:
       - 
       - 
@@ -477,13 +513,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 30
-      debugIndex: 31
+    - rowIndex: 32
+      debugIndex: 34
       strings:
       - 
       - "\u6BCD\u89AA"
       - B15.png
-      - 
+      - "\u53F3"
       - 
       - 
       - 
@@ -492,13 +528,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 31
-      debugIndex: 32
+    - rowIndex: 33
+      debugIndex: 35
       strings:
       - 
       - "\u6BCD\u89AA"
       - B15.png
-      - 
+      - "\u53F3"
       - 
       - 
       - 
@@ -507,8 +543,38 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 32
-      debugIndex: 33
+    - rowIndex: 34
+      debugIndex: 36
+      strings:
+      - BgOff
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 35
+      debugIndex: 37
+      strings:
+      - StopSound
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 36
+      debugIndex: 38
       strings:
       - EndScenario
       isEmpty: 0
@@ -516,7 +582,34 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232131/Scenarios/61232131.xls:Start
     type: 1
-    textLength: 570
+    textLength: 661
+    headerRow: 0
+    sourceAssetInEditor: {fileID: 102900000, guid: c52326bd05cffff43bf8e7f35397bdc3, type: 3}
+    entityIndexTbl: 
+    entityDataList: []
+  - rows:
+    - rowIndex: 0
+      debugIndex: 0
+      strings:
+      - Command
+      - Arg1
+      - Arg2
+      - Arg3
+      - Arg4
+      - Arg5
+      - Arg6
+      - WaitType
+      - Text
+      - PageCtrl
+      - Voice
+      - WindowType
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: "Assets/61232131/Scenarios/61232131.xls:\u7B2C\u4E00"
+    type: 1
+    textLength: 66
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: c52326bd05cffff43bf8e7f35397bdc3, type: 3}
     entityIndexTbl: 
@@ -1426,9 +1519,84 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u623F1"
+      - bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Aroom
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u623F2"
+      - bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Broom
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u623F2\u9580"
+      - bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Broomdoor
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u8D70\u5ECA"
+      - bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - wail
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u958B\u982D"
+      - bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - open
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232131/Scenarios/61232131.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 160
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: c52326bd05cffff43bf8e7f35397bdc3, type: 3}
   - rows:
@@ -1469,9 +1637,42 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u4E2D"
+      - Character
+      - 0
+      - 0
+      - 100
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u5DE6"
+      - Character
+      - -300
+      - 0
+      - 100
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u53F3"
+      - Character
+      - 300
+      - 0
+      - 100
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232131/Scenarios/61232131.xls:Layer
     type: 1
-    textLength: 109
+    textLength: 159
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: c52326bd05cffff43bf8e7f35397bdc3, type: 3}
   - rows:
@@ -1638,9 +1839,19 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u80CC1"
+      - 
+      - Bgm
+      - BGM.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232131/Scenarios/61232131.xls:Sound
     type: 1
-    textLength: 37
+    textLength: 49
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: c52326bd05cffff43bf8e7f35397bdc3, type: 3}
   - rows:
@@ -1774,12 +1985,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
-      - 
-      - 
-      - 
-      - "\u300C\u2026\u2026\u8F5F\u9686\u300D"
-      isEmpty: 0
+      isEmpty: 1
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 2
@@ -1793,7 +1999,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u300C\u8ECA\u8072\u3001\u5587\u53ED\u3001\u4EBA\u7FA4\u7684\u5435\u9B27\u2026\u2026\u300D"
+      - "\u300C\u2026\u2026\u8F5F\u9686\u300D"
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -1808,7 +2014,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u300C\u6211\u2026\u2026\u8A18\u5F97\u6211\u5728\u8D8A\u5357\u3002\u300D"
+      - "\u300C\u8ECA\u8072\u3001\u5587\u53ED\u3001\u4EBA\u7FA4\u7684\u5435\u9B27\u2026\u2026\u300D"
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -1823,7 +2029,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u300C\u518D\u53BB\u5F80\u6A5F\u5834\u7684\u8DEF\u4E0A\u2026\u2026\u300D"
+      - "\u300C\u6211\u2026\u2026\u8A18\u5F97\u6211\u5728\u8D8A\u5357\u3002\u300D"
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -1838,7 +2044,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u300C\u6211\u7684\u884C\u674E\u2026\u2026\u300D"
+      - "\u300C\u518D\u53BB\u5F80\u6A5F\u5834\u7684\u8DEF\u4E0A\u2026\u2026\u300D"
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -1853,8 +2059,8 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
-      isEmpty: 1
+      - "\u300C\u6211\u7684\u884C\u674E\u2026\u2026\u300D"
+      isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 7
@@ -1868,17 +2074,62 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\uFF08\u7DE9\u6162\u9032\u5165\u4E3B\u89D2\u623F\u9593\uFF09"
-      isEmpty: 0
+      - 
+      isEmpty: 1
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 8
       debugIndex: 8
       strings:
       - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\uFF08\u7DE9\u6162\u9032\u5165\u4E3B\u89D2\u623F\u9593\uFF09"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - Bgm
+      - "\u80CC1"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - Bg
+      - "\u623F1"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - 
       - "\u5F90\u884C"
       - A9.png
-      - 
+      - "\u4E2D"
       - 
       - 
       - 
@@ -1887,13 +2138,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 9
-      debugIndex: 9
+    - rowIndex: 12
+      debugIndex: 12
       strings:
       - 
       - "\u5F90\u884C"
       - A9.png
-      - 
+      - "\u4E2D"
       - 
       - 
       - 
@@ -1902,8 +2153,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 10
-      debugIndex: 10
+    - rowIndex: 13
+      debugIndex: 13
       strings:
       - 
       - 
@@ -1917,13 +2168,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 11
-      debugIndex: 11
+    - rowIndex: 14
+      debugIndex: 14
       strings:
       - 
       - "\u5F90\u884C"
       - A16.png
-      - 
+      - "\u4E2D"
       - 
       - 
       - 
@@ -1932,13 +2183,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 12
-      debugIndex: 12
+    - rowIndex: 15
+      debugIndex: 15
       strings:
       - 
       - "\u5F90\u884C"
       - A16.png
-      - 
+      - "\u4E2D"
       - 
       - 
       - 
@@ -1956,13 +2207,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 13
-      debugIndex: 13
+    - rowIndex: 16
+      debugIndex: 16
       strings:
       - 
       - "\u5F90\u884C"
       - A16.png
-      - 
+      - "\u4E2D"
       - 
       - 
       - 
@@ -1971,8 +2222,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 14
-      debugIndex: 14
+    - rowIndex: 17
+      debugIndex: 17
       strings:
       - 
       - 
@@ -1986,13 +2237,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 15
-      debugIndex: 15
+    - rowIndex: 18
+      debugIndex: 18
       strings:
       - 
       - "\u5F90\u884C"
       - A20.png
-      - 
+      - "\u4E2D"
       - 
       - 
       - 
@@ -2001,10 +2252,10 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 16
-      debugIndex: 16
+    - rowIndex: 19
+      debugIndex: 19
       strings:
-      - 
+      - CharacterOff
       - 
       - 
       - 
@@ -2016,13 +2267,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 17
-      debugIndex: 17
+    - rowIndex: 20
+      debugIndex: 20
       strings:
       - 
       - "\u6BCD\u89AA"
       - B9.png
-      - 
+      - "\u53F3"
       - 
       - 
       - 
@@ -2031,13 +2282,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 18
-      debugIndex: 18
+    - rowIndex: 21
+      debugIndex: 21
       strings:
       - 
       - "\u6BCD\u89AA"
       - B9.png
-      - 
+      - "\u53F3"
       - 
       - 
       - 
@@ -2046,13 +2297,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 19
-      debugIndex: 19
+    - rowIndex: 22
+      debugIndex: 22
       strings:
       - 
       - "\u6BCD\u89AA"
       - B9.png
-      - 
+      - "\u53F3"
       - 
       - 
       - 
@@ -2061,58 +2312,64 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 20
-      debugIndex: 20
+    - rowIndex: 23
+      debugIndex: 23
       strings:
       - 
       - "\u5F90\u884C"
       - A5.png
-      - 
+      - "\u5DE6"
       - 
       - 
       - 
       - 
       - "\u300C\u6211\u600E\u9EBC\u5728\u9019\u88E1\uFF1F\u300D"
+      - 
+      - A01
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 21
-      debugIndex: 21
+    - rowIndex: 24
+      debugIndex: 24
       strings:
       - 
       - "\u5F90\u884C"
       - A5.png
-      - 
+      - "\u5DE6"
       - 
       - 
       - 
       - 
       - "\u300C\u6211\u4E0D\u662F\u5728\u8D8A\u5357\u55CE\uFF1F\u300D"
+      - 
+      - A02
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 22
-      debugIndex: 22
+    - rowIndex: 25
+      debugIndex: 25
       strings:
       - 
       - "\u5F90\u884C"
       - A5.png
-      - 
+      - "\u5DE6"
       - 
       - 
       - 
       - 
       - "\u300C\u6211\u7684\u884C\u674E\u5462\uFF1F\u600E\u9EBC\u4E0D\u898B\u4E86\uFF01\u300D"
+      - 
+      - A03
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 23
-      debugIndex: 23
+    - rowIndex: 26
+      debugIndex: 26
       strings:
       - 
       - "\u6BCD\u89AA"
       - B3.png
-      - 
+      - "\u53F3"
       - 
       - 
       - 
@@ -2121,11 +2378,11 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 24
-      debugIndex: 24
+    - rowIndex: 27
+      debugIndex: 27
       strings:
-      - 
-      - 
+      - CharacterOff
+      - "\u5F90\u884C"
       - 
       - 
       - 
@@ -2136,13 +2393,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 25
-      debugIndex: 25
+    - rowIndex: 28
+      debugIndex: 28
       strings:
       - 
       - "\u5F90\u884C"
       - A17.png
-      - 
+      - "\u5DE6"
       - 
       - 
       - 
@@ -2151,13 +2408,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 26
-      debugIndex: 26
+    - rowIndex: 29
+      debugIndex: 29
       strings:
       - 
       - "\u5F90\u884C"
       - A17.png
-      - 
+      - "\u5DE6"
       - 
       - 
       - 
@@ -2166,11 +2423,11 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 27
-      debugIndex: 27
+    - rowIndex: 30
+      debugIndex: 30
       strings:
-      - 
-      - 
+      - CharacterOff
+      - "\u6BCD\u89AA"
       - 
       - 
       - 
@@ -2181,13 +2438,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 28
-      debugIndex: 28
+    - rowIndex: 31
+      debugIndex: 31
       strings:
       - 
       - "\u5F90\u884C"
       - A18.png
-      - 
+      - "\u5DE6"
       - 
       - 
       - 
@@ -2196,13 +2453,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 29
-      debugIndex: 29
+    - rowIndex: 32
+      debugIndex: 32
       strings:
       - 
       - "\u5F90\u884C"
       - A18.png
-      - 
+      - "\u5DE6"
       - 
       - 
       - 
@@ -2211,8 +2468,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 30
-      debugIndex: 30
+    - rowIndex: 33
+      debugIndex: 33
       strings:
       - 
       - 
@@ -2226,13 +2483,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 31
-      debugIndex: 31
+    - rowIndex: 34
+      debugIndex: 34
       strings:
       - 
       - "\u6BCD\u89AA"
       - B15.png
-      - 
+      - "\u53F3"
       - 
       - 
       - 
@@ -2241,13 +2498,13 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 32
-      debugIndex: 32
+    - rowIndex: 35
+      debugIndex: 35
       strings:
       - 
       - "\u6BCD\u89AA"
       - B15.png
-      - 
+      - "\u53F3"
       - 
       - 
       - 
@@ -2256,8 +2513,38 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 33
-      debugIndex: 33
+    - rowIndex: 36
+      debugIndex: 36
+      strings:
+      - BgOff
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 37
+      debugIndex: 37
+      strings:
+      - StopSound
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 38
+      debugIndex: 38
       strings:
       - EndScenario
       isEmpty: 0
@@ -2265,6 +2552,31 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232131/Scenarios/61232131.xls:Start
     type: 1
-    textLength: 570
+    textLength: 661
+    headerRow: 0
+    sourceAssetInEditor: {fileID: 102900000, guid: c52326bd05cffff43bf8e7f35397bdc3, type: 3}
+  - rows:
+    - rowIndex: 0
+      debugIndex: 0
+      strings:
+      - Command
+      - Arg1
+      - Arg2
+      - Arg3
+      - Arg4
+      - Arg5
+      - Arg6
+      - WaitType
+      - Text
+      - PageCtrl
+      - Voice
+      - WindowType
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: "Assets/61232131/Scenarios/61232131.xls:\u7B2C\u4E00"
+    type: 1
+    textLength: 66
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: c52326bd05cffff43bf8e7f35397bdc3, type: 3}

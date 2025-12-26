@@ -920,9 +920,84 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u623F1"
+      - bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Aroom
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u623F2"
+      - bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Broom
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u623F2\u9580"
+      - bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Broomdoor
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u8D70\u5ECA"
+      - bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - wail
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u958B\u982D"
+      - bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - open
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232131/Scenarios/61232131.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 160
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: c52326bd05cffff43bf8e7f35397bdc3, type: 3}
   - rows:
@@ -963,9 +1038,42 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u4E2D"
+      - Character
+      - 0
+      - 0
+      - 100
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u5DE6"
+      - Character
+      - -300
+      - 0
+      - 100
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u53F3"
+      - Character
+      - 300
+      - 0
+      - 100
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232131/Scenarios/61232131.xls:Layer
     type: 1
-    textLength: 109
+    textLength: 159
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: c52326bd05cffff43bf8e7f35397bdc3, type: 3}
   - rows:
@@ -1132,9 +1240,19 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u80CC1"
+      - 
+      - Bgm
+      - BGM.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232131/Scenarios/61232131.xls:Sound
     type: 1
-    textLength: 37
+    textLength: 49
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: c52326bd05cffff43bf8e7f35397bdc3, type: 3}
   - rows:
