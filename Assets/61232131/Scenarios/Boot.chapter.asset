@@ -924,7 +924,7 @@ MonoBehaviour:
       debugIndex: 1
       strings:
       - "\u623F1"
-      - bg
+      - Bg
       - 
       - 
       - 
@@ -939,7 +939,7 @@ MonoBehaviour:
       debugIndex: 2
       strings:
       - "\u623F2"
-      - bg
+      - Bg
       - 
       - 
       - 
@@ -954,12 +954,12 @@ MonoBehaviour:
       debugIndex: 3
       strings:
       - "\u623F2\u9580"
-      - bg
+      - Bg
       - 
       - 
       - 
       - 
-      - 
+      - .5
       - 
       - Broomdoor
       isEmpty: 0
@@ -969,7 +969,7 @@ MonoBehaviour:
       debugIndex: 4
       strings:
       - "\u8D70\u5ECA"
-      - bg
+      - Bg
       - 
       - 
       - 
@@ -984,7 +984,7 @@ MonoBehaviour:
       debugIndex: 5
       strings:
       - "\u958B\u982D"
-      - bg
+      - Bg
       - 
       - 
       - 
@@ -997,7 +997,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232131/Scenarios/61232131.xls:Texture
     type: 1
-    textLength: 160
+    textLength: 162
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: c52326bd05cffff43bf8e7f35397bdc3, type: 3}
   - rows:
