@@ -463,6 +463,38 @@ MonoBehaviour:
     - rowIndex: 27
       debugIndex: 27
       strings:
+      - 
+      - 
+      - A26.png
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - A26.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - 
+      - 
+      - A27.png
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - A27.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
       - "\u6BCD\u89AA"
       - 
       - B1.png
@@ -476,51 +508,19 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 28
-      debugIndex: 28
-      strings:
-      - 
-      - 
-      - B2.png
-      - 
-      - 
-      - 
-      - 
-      - .5
-      - 
-      - B2.png
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 29
-      debugIndex: 29
-      strings:
-      - 
-      - 
-      - B3.png
-      - 
-      - 
-      - 
-      - 
-      - .5
-      - 
-      - B3.png
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
     - rowIndex: 30
       debugIndex: 30
       strings:
       - 
       - 
-      - B4.png
+      - B2.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B4.png
+      - B2.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -529,14 +529,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B5.png
+      - B3.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B5.png
+      - B3.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -545,14 +545,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B6.png
+      - B4.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B6.png
+      - B4.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -561,14 +561,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B7.png
+      - B5.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B7.png
+      - B5.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -577,14 +577,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B8.png
+      - B6.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B8.png
+      - B6.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -593,14 +593,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B9.png
+      - B7.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B9.png
+      - B7.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -609,14 +609,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B10.png
+      - B8.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B10.png
+      - B8.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -625,14 +625,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B11.png
+      - B9.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B11.png
+      - B9.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -641,14 +641,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B12.png
+      - B10.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B12.png
+      - B10.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -657,14 +657,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B13.png
+      - B11.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B13.png
+      - B11.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -673,14 +673,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B14.png
+      - B12.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B14.png
+      - B12.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -689,14 +689,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B15.png
+      - B13.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B15.png
+      - B13.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -705,14 +705,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B16.png
+      - B14.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B16.png
+      - B14.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -721,14 +721,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B17.png
+      - B15.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B17.png
+      - B15.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -737,14 +737,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B18.png
+      - B16.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B18.png
+      - B16.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -753,14 +753,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B19.png
+      - B17.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B19.png
+      - B17.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -769,14 +769,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B20.png
+      - B18.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B20.png
+      - B18.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -785,14 +785,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B21.png
+      - B19.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B21.png
+      - B19.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -801,14 +801,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B22.png
+      - B20.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B22.png
+      - B20.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -817,14 +817,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B23.png
+      - B21.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B23.png
+      - B21.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -833,14 +833,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B24.png
+      - B22.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B24.png
+      - B22.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -849,14 +849,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B25.png
+      - B23.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B25.png
+      - B23.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -865,14 +865,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - B26.png
+      - B24.png
       - 
       - 
       - 
       - 
       - .5
       - 
-      - B26.png
+      - B24.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -881,6 +881,38 @@ MonoBehaviour:
       strings:
       - 
       - 
+      - B25.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B25.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 54
+      debugIndex: 54
+      strings:
+      - 
+      - 
+      - B26.png
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B26.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 55
+      debugIndex: 55
+      strings:
+      - 
+      - 
       - B27.png
       - 
       - 
@@ -892,8 +924,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 54
-      debugIndex: 54
+    - rowIndex: 56
+      debugIndex: 56
       strings:
       - 
       - 
@@ -908,9 +940,25 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 57
+      debugIndex: 57
+      strings:
+      - "\u624B\u6A5F"
+      - 
+      - B29.png
+      - 
+      - 
+      - 
+      - 
+      - .6
+      - 
+      - B29.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232131/Scenarios/61232131.xls:Character
     type: 1
-    textLength: 995
+    textLength: 1045
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: c52326bd05cffff43bf8e7f35397bdc3, type: 3}
   - rows:
